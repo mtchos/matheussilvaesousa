@@ -10,17 +10,19 @@
 - [MobMap](http://mobmap.me/) · [repository](https://github.com/KenjiKoniossi/Projeto-Integrador)
 
 ### 💻 Front-end Projects
-- [Calculator](https://matheussilvaesousa.github.io/calculator/) · [repository](https://github.com/matheussilvaesousa/calculator)
-- [Etch-A-Sketch](https://matheussilvaesousa.github.io/etch-a-sketch/) · [repository](https://github.com/matheussilvaesousa/etch-a-sketch)
-- [Rock Paper Scissors](https://matheussilvaesousa.github.io/rock-paper-scissors/) · [repository](https://github.com/matheussilvaesousa/rock-paper-scissors)
-- [Drum Kit](https://matheussilvaesousa.github.io/drum-kit/) · [repository](https://github.com/matheussilvaesousa/drum-kit)
-- [Google Clone](https://matheussilvaesousa.github.io/google-homepage/) · [repository](https://github.com/matheussilvaesousa/google-homepage)
+- [Calculator](https://matheussilvaesousa.github.io/calculator/) · [see repository](https://github.com/matheussilvaesousa/calculator)
+- [Etch-A-Sketch](https://matheussilvaesousa.github.io/etch-a-sketch/) · [see repository](https://github.com/matheussilvaesousa/etch-a-sketch)
+- [Rock Paper Scissors](https://matheussilvaesousa.github.io/rock-paper-scissors/) · [see repository](https://github.com/matheussilvaesousa/rock-paper-scissors)
+- [Drum Kit](https://matheussilvaesousa.github.io/drum-kit/) · [see repository](https://github.com/matheussilvaesousa/drum-kit)
+- [Google Clone](https://matheussilvaesousa.github.io/google-homepage/) · [see repository](https://github.com/matheussilvaesousa/google-homepage)
 
 ### ✏️ Currently Studying
 - [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript) on the Full Stack Javascript Path
+- React
+- NodeJS
 
 ### 🎓 Past Experiences
-- [Full Stack Bootcamp](https://pdfhost.io/v/lamUMDAn4_certificadodhbrasilpdf.pdf) with [Digital House Brasil](https://www.digitalhouse.com/br/)
+- [Full Stack Bootcamp](https://pdfhost.io/v/lamUMDAn4_certificadodhbrasilpdf.pdf) at [Digital House Brasil](https://www.digitalhouse.com/br/)
 - [Python Tutorial from SoloLearn](https://www.sololearn.com/Certificate/1073-14438041/pdf/)
 
 
