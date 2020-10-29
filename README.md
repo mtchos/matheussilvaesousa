@@ -14,7 +14,7 @@
 - [Etch-A-Sketch](https://matheussilvaesousa.github.io/etch-a-sketch/) · [see repository](https://github.com/matheussilvaesousa/etch-a-sketch)
 - [Rock Paper Scissors](https://matheussilvaesousa.github.io/rock-paper-scissors/) · [see repository](https://github.com/matheussilvaesousa/rock-paper-scissors)
 - [Drum Kit](https://matheussilvaesousa.github.io/drum-kit/) · [see repository](https://github.com/matheussilvaesousa/drum-kit)
-- [Google Clone](https://matheussilvaesousa.github.io/google-homepage/) · [see repository](https://github.com/matheussilvaesousa/google-homepage)
+- [GoogleSearch Clone](https://matheussilvaesousa.github.io/google-homepage/) · [see repository](https://github.com/matheussilvaesousa/google-homepage)
 
 ### ✏️ Currently Studying
 - [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript) on the Full Stack Javascript Path
