@@ -27,7 +27,7 @@
 
 
 ### 📫 Contact me
-- E-mail · ✉️ [matheussilvaesousa@gmail.com](matheussilvaesousa@gmail.com)
+- E-mail · ✉️ matheussilvaesousa@gmail.com
 - [LinkedIn](https://linkedin.com/in/matheussilvaesousa) 🔗
 
 Credits [Stephen Ajulu](https://github.com/stephenajulu)
