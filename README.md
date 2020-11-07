@@ -4,7 +4,7 @@
 </p>
 
 <h2 align="center">Hi! My name is Matheus Sousa 👋</h2>
-<p align="center">I'm a development student, cellist and cinema lover from Brazil.</p>
+<p align="center">I'm a development student and cellist from Brazil.</p>
 
 ### 💻 Full Stack Projects
 - [MobMap](http://mobmap.me/) · [repository](https://github.com/KenjiKoniossi/Projeto-Integrador)
