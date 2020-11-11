@@ -13,7 +13,7 @@
 ### 💻 Front-end Projects
 
 - [Etch-A-Sketch](https://matheussilvaesousa.github.io/etch-a-sketch/) · [see repository](https://github.com/matheussilvaesousa/etch-a-sketch)
-- [Your Books Here](https://github.com/matheussilvaesousa/library-catalog) · [see repository](https://matheussilvaesousa.github.io/library-catalog/)
+- [Your Books Here](https://matheussilvaesousa.github.io/library-catalog/) · [see repository](https://github.com/matheussilvaesousa/library-catalog)
 - [Calculator](https://matheussilvaesousa.github.io/calculator/) · [see repository](https://github.com/matheussilvaesousa/calculator)
 - [GoogleSearch Clone](https://matheussilvaesousa.github.io/google-homepage/) · [see repository](https://github.com/matheussilvaesousa/google-homepage)
 - [Rock Paper Scissors](https://matheussilvaesousa.github.io/rock-paper-scissors/) · [see repository](https://github.com/matheussilvaesousa/rock-paper-scissors)
