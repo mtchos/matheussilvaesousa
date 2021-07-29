@@ -21,7 +21,7 @@
 ### ✏️ Currently Studying
 
 - [Modern React with Redux](https://www.udemy.com/course/react-redux/) by Stephen Grider
-- [Java with OOP](https://www.udemy.com/course/java-curso-completo/) by Nelio Alves
+- [Java and OOP](https://www.udemy.com/course/java-curso-completo/) by Nelio Alves
 
 ### 🎓 Experiences
 
