@@ -4,7 +4,7 @@
 </p>
 
 <h2 align="center">Hi! My name is Matheus Sousa 👋</h2>
-<p align="center">I'm a development student and cellist from Brazil.</p>
+<p align="center">I'm a software developer and cellist from Brazil.</p>
 
 ### 💻 Full Stack Projects
 
@@ -20,18 +20,18 @@
 
 ### ✏️ Currently Studying
 
-- [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript) on the Full Stack Javascript Path
-- React
-- NodeJS
+- [Modern React with Redux](https://www.udemy.com/course/react-redux/) by Stephen Grider
+- [Java with OOP](https://www.udemy.com/course/java-curso-completo/) by Nelio Alves
 
-### 🎓 Past Experiences
+### 🎓 Experiences
 
+- Software Development Internship at [SuperSim](https://www.supersim.com.br/)
 - [Full Stack Bootcamp](https://pdfhost.io/v/lamUMDAn4_certificadodhbrasilpdf.pdf) at [Digital House Brasil](https://www.digitalhouse.com/br/)
-- [Python Tutorial from SoloLearn](https://www.sololearn.com/Certificate/1073-14438041/pdf/)
+- [Python Tutorial](https://www.sololearn.com/Certificate/1073-14438041/pdf/) by [SoloLearn](https://www.sololearn.com/home)
 
 ### 📫 Contact me
 
 - E-mail · ✉️ matheussilvaesousa@gmail.com
 - [LinkedIn](https://linkedin.com/in/matheussilvaesousa) 🔗
 
-Credits [Stephen Ajulu](https://github.com/stephenajulu)
+Template inspired by [Stephen Ajulu](https://github.com/stephenajulu)
