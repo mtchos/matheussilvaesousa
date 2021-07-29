@@ -1,5 +1,5 @@
 <p align='center'>
-<a href="https://instagram.com/matheus7sousa"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/matchossousa"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/matheussilvaesousa/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
@@ -25,7 +25,7 @@
 
 ### 🎓 Experiences
 
-- Software Development Internship at [SuperSim](https://www.supersim.com.br/)
+- Software Development at [SuperSim](https://www.supersim.com.br/)
 - [Full Stack Bootcamp](https://pdfhost.io/v/lamUMDAn4_certificadodhbrasilpdf.pdf) at [Digital House Brasil](https://www.digitalhouse.com/br/)
 - [Python Tutorial](https://www.sololearn.com/Certificate/1073-14438041/pdf/) by [SoloLearn](https://www.sololearn.com/home)
 
