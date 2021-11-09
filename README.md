@@ -1,7 +1,10 @@
 <p align='center'>
-<a href="https://instagram.com/matchossousa"><img height="30" src="https://seeklogo.com/images/I/instagram-new-2016-logo-4773FE3F99-seeklogo.com.png"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/matheussilvaesousa/"><img height="30" src="https://seeklogo.com/images/L/linkedin-new-2020-logo-E14A5D55ED-seeklogo.com.png
-"></a>
+  <a href="https://instagram.com/matchossousa">
+    <img height="30" src="https://seeklogo.com/images/I/instagram-new-2016-logo-4773FE3F99-seeklogo.com.png">
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/matheussilvaesousa/">
+    <img height="30" src="https://seeklogo.com/images/L/linkedin-new-2020-logo-E14A5D55ED-seeklogo.com.png">
+  </a>
 </p>
 
 <h2 align="center">Hi! My name is Matheus Sousa 👋</h2>
