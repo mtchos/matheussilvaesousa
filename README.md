@@ -24,6 +24,7 @@
 
 ### ✏️ Currently Studying
 
+- [Java and OOP](https://cursos.alura.com.br/formacao-java) by [Alura](https://www.alura.com.br/)
 - [Modern React with Redux](https://www.udemy.com/course/react-redux/) by Stephen Grider
 - [Java and OOP](https://www.udemy.com/course/java-curso-completo/) by Nelio Alves
 
